@@ -1,3 +1,4 @@
+Install These with PIP, or use 'setup.bat' to install
 selenium
 faker
 colorama
