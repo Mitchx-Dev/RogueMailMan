@@ -45,18 +45,6 @@ driver.header_overrides = {'SameSite=None': 'Secure',}
 
 
 
-print(Fore.CYAN + Style.BRIGHT + """\n\n\n\n\n\n\n\n\n\n\n\n
- ____   ____   ____   _  _   ___          _   _    _     ___   _      _   _    _    _  _  
-/  _ \ / __ \ ).-._( ) () ( ) __(        ) \_/ (  )_\   )_ _( ) |    ) \_/ (  )_\  ) \/ ( 
-)  ' / ))__(( |( ,-. | \/ | | _)         |  _  | /( )\  _| |_ | (__  |  _  | /( )\ |  \ | 
-|_()_\ \____/ )_`__( )____( )___(  _____ )_( )_()_/ \_()_____()____( )_( )_()_/ \_()_()_( 
-                                  )_____(                                                 
-                                                        created by Mitch :)\n\n\n
-
-
-""")
-
-
 
 #Input Variables
 email = input("Please Enter Email To Bomb: ")
